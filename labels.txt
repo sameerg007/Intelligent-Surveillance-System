@@ -1,0 +1,4 @@
+0 Gun
+1 Knife
+2 Fire
+3 Non-Threat
